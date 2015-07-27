@@ -1,2 +1,2 @@
 # Infinite
-Web_Projects
+Used to store Website concepts
